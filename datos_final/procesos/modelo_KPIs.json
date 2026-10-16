@@ -1,0 +1,187 @@
+{
+  "MeasurementData": {
+    "MeasurementParameter": [
+      {
+        "unit": "",
+        "key": "Date",
+        "value": "06/10/2026"
+      },
+      {
+        "unit": "",
+        "key": "Time",
+        "value": "10:07:35"
+      },
+      {
+        "unit": "",
+        "key": "Version",
+        "value": "te1500ac"
+      },
+      {
+        "unit": "",
+        "key": "JoiningSpotSeries",
+        "value": "295"
+      },
+      {
+        "unit": "",
+        "key": "StudID",
+        "value": "9970712_bhd_234"
+      },
+      {
+        "unit": "",
+        "key": "StudType",
+        "value": "6AI2"
+      },
+      {
+        "unit": "",
+        "key": "CarbodyID",
+        "value": "40009086"
+      },
+      {
+        "unit": "",
+        "key": "ProductionNumber",
+        "value": ""
+      },
+      {
+        "unit": "",
+        "key": "Location",
+        "value": "157"
+      },
+      {
+        "unit": "",
+        "key": "Line",
+        "value": "Z1"
+      },
+      {
+        "unit": "",
+        "key": "Building",
+        "value": "150"
+      },
+      {
+        "unit": "",
+        "key": "Plant",
+        "value": " B230 "
+      },
+      {
+        "unit": "",
+        "key": "Station",
+        "value": "250"
+      },
+      {
+        "unit": "",
+        "key": "Robot",
+        "value": "800"
+      },
+      {
+        "unit": "",
+        "key": "Controller",
+        "value": "801"
+      },
+      {
+        "unit": "",
+        "key": "ToolNo",
+        "value": "1.1"
+      },
+      {
+        "unit": "",
+        "key": "Quality",
+        "value": "10"
+      },
+      {
+        "unit": "",
+        "key": "TotalRecords",
+        "value": "9640"
+      },
+      {
+        "unit": "",
+        "key": "Type",
+        "value": "V"
+      },
+      {
+        "unit": "",
+        "key": "FaultCode",
+        "value": "0"
+      },
+      {
+        "unit": "",
+        "key": "Remarks",
+        "value": ""
+      },
+      {
+        "unit": "V",
+        "key": "PilotVoltageActual",
+        "value": "19,6"
+      },
+      {
+        "unit": "V",
+        "key": "WeldVoltageActual",
+        "value": "20,9"
+      },
+      {
+        "unit": "A",
+        "key": "WeldCurrentActualPositive",
+        "value": "550"
+      },
+      {
+        "unit": "ms",
+        "key": "WeldTimeActual",
+        "value": "60"
+      },
+      {
+        "unit": "J",
+        "key": "WeldEnergy",
+        "value": "892 J"
+      },
+      {
+        "unit": "mm",
+        "key": "LMLiftHeightActual",
+        "value": "2,5"
+      },
+      {
+        "unit": "mm",
+        "key": "LMPenetrationActual",
+        "value": "-0,69"
+      },
+      {
+        "unit": "ms",
+        "key": "WeldToolSlideForwardMoveTime",
+        "value": "324"
+      },
+      {
+        "unit": "ms",
+        "key": "WeldToolSlideBackwardMoveTime",
+        "value": "283"
+      },
+      {
+        "unit": "ms",
+        "key": "FeedingTimeActual",
+        "value": "1782"
+      },
+      {
+        "unit": "ms",
+        "key": "FeedingTimeStudInTube",
+        "value": "1104"
+      },
+      {
+        "unit": "ms",
+        "key": "WeldToolMoveTimeLoadingPinBackward",
+        "value": "277"
+      },
+      {
+        "unit": "ms",
+        "key": "WeldToolMoveTimeLoadingPinForward",
+        "value": "383"
+      },
+      {
+        "unit": "mm",
+        "key": "LMPositionActual",
+        "value": ""
+      },
+      {
+        "unit": "mm",
+        "key": "LMPositionReference",
+        "value": ""
+      }
+    ],
+    "GraphicalData": []
+  }
+}

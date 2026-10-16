@@ -1,0 +1,17 @@
+{
+  "Messages": {
+    "Timestamp": "08/10/2026 08:49:25 +0200",
+    "DeviceName": "l130_390_r2",
+    "ToolNo": " 1.1 ",
+    "StudId": "61004_bhd_234",
+    "Message_Id": "42106",
+    "Message_Text": {
+      "DE-DE": "Zuführer: Stud-Departure-Sensor permanent aktiv",
+      "EN-US": "Feeder: Stud-departure sensor permanently active"
+    },
+    "InProcess": "true",
+    "Component": "FEEDER",
+    "Duration": "00:00:07",
+    "OperationMode": "Automatic mode"
+  }
+}
